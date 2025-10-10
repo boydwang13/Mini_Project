@@ -2,7 +2,7 @@
 
 ## Reproducibility report
 
-It is easy to reproduce the project without single change in my case (Mac user). However in other systems this: *cd Mini_project* I guess should be exactly like the project's name: Mini_Project (however this is my guess, as it ran smoothly from my Mac)
+*It is easy to reproduce the project without single change in my case (Mac user). However in other systems this: *cd Mini_project* I guess should be exactly like the project's name: Mini_Project (however this is my guess, as it ran smoothly from my Mac)*
 
 ## Overall opinion
 
