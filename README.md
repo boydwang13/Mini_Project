@@ -5,6 +5,7 @@
 This mini project is aiming at finding the relations between the price of a hotel and its distance to city center.
 
 ## 2. Folder Structure
+```
 .
 ├── config.yaml  #
 ├── data
@@ -23,6 +24,7 @@ This mini project is aiming at finding the relations between the price of a hote
 ├── requirements.txt
 └── src
     └── main.py
+```
 
 ## 3. Software and Hardware Requirements
 
